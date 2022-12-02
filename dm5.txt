@@ -1,0 +1,21 @@
+DM 5 : 
+
+- Réalisation en groupe d'un site. 
+
+* Gestion d'un Garage : tables (technicien, client,
+véhicule, intervention, ...)
+
+* Gestion d'un site de troc d'objets entre enfants : 
+Tables (enfant, objet, catégorie, troc ...)
+
+* Gestion de la vaccination covid en ile de France :
+(tables : personne, centre de vaccination, vaccin, 
+type de vaccins, vaccination)
+
+* Gestion des vols à air France : 
+(tables : avion, pilote, passager, vol, aeroports ....)
+
+ CSS, les tableaux en boostrap, pied de page, header, 
+ MVC POO, 
+
+ 
